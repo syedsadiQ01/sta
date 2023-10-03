@@ -1,0 +1,2 @@
+# sta
+ntg spcl
